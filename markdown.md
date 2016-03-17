@@ -2,7 +2,7 @@
 - strek blir kule
 - en kule til
 
-* stjerne blir også kule
+** to stjerner blir også kursiv? **
 * stjerne 
 * stjerne
 
