@@ -2,6 +2,12 @@
 - strek blir kule
 - en kule til
 
-* sjterne
-* stjerne s
+* stjerne blir også kule
+* stjerne 
 * stjerne
+
+** to stjerner
+
+### størrelse?
+
+## to hash tags
