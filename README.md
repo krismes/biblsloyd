@@ -10,6 +10,11 @@ Hva ser jeg - hvordan ser det ut?
 
 æ ø og å
 
+ä ö å
+
+svenske bokstaver fungerer og.
+
+
 `this is a code block`
 
 
